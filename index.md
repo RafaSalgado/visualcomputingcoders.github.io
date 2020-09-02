@@ -2,9 +2,9 @@
 
 ### Coders
 - cdtafurd
--
--
--
+- josdsalazarmor
+- Andrey
+- Rafael
 
 ### Some notes
 
