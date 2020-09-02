@@ -1,1 +1,11 @@
+# You can have multiple themes in your Gemfile,
+# but only one in _config.yml can be loaded by jekyll
+
+# some whitelisted theme gems 
+#theme: minima
+#theme: jekyll-theme-dinky
+#theme: jekyll-theme-merlot
 theme: jekyll-theme-hacker
+
+plugins:
+  - jekyll-seo-tag
